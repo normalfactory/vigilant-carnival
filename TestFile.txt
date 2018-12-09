@@ -12,7 +12,11 @@ That is really cool; the tragically hip
 SpatialHeights Software
 Or SpatialHeights: taking your location data to new insights
 
+<<<<<<< HEAD
 Yo
 Yo Yo
 what the yo
 
+=======
+this is a test right here
+>>>>>>> e016f6e063cd263f4907087aec49966683f8ec3c
